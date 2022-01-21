@@ -13,6 +13,6 @@ Execute with:
  
  >>> main
 
-end follow instructions
+and follow instructions
 
 ### Jesús Octavio Raboso & Elisa Casado Gómez
