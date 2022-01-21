@@ -8,4 +8,11 @@ version_2.hs : trying to generalize to nxn tic-tac-toe
 
 version_2_2.hs : trying to generalize to n+n tic-tac-toe (not finished)
 
+
+Execute with:
+ 
+ >>> main
+
+end follow instructions
+
 ### Jesús Octavio Raboso & Elisa Casado Gómez
